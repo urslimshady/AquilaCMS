@@ -6,7 +6,7 @@ The ***Open Source***, ***100%-JavaScript*** and ***"all in one"*** ecommerce so
 
 [AquilaCMS](https://www.aquila-cms.com) is :
 
-- An open-source e-commerce web application
+- An open source e-commerce web application
 - A 100% JavaScript solution with `MERN Stack`
 - A mutli-themes website : Front-end can be used with `ReactJS` and `NextJS` (for polymorphism) or any other JS technology (`VueJS`, `Angular`, etc)
 - A complete back office to manage everything in your website
