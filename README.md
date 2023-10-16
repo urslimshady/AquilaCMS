@@ -175,7 +175,7 @@ You can check the backoffice here :
 - [https://dem01.aquila-cms.com/demadmin](https://dem01.aquila-cms.com/demadmin)
 - [https://dem02.aquila-cms.com/demadmin](https://dem02.aquila-cms.com/demadmin)
 
-Logins are :
+Logins are as folows:
 
 |         Email          | Password  |
 | :--------------------: | :-------: |
