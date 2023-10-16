@@ -1,6 +1,6 @@
 # AquilaCMS ![License Badge](https://img.shields.io/badge/license-OSL3.0-success.svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e711424ea4744515a340c517a8329df9)](https://www.codacy.com/gh/AquilaCMS/AquilaCMS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AquilaCMS/AquilaCMS&amp;utm_campaign=Badge_Grade) [![Build Status](https://travis-ci.com/AquilaCMS/AquilaCMS.svg?branch=preprod)](https://travis-ci.com/AquilaCMS/AquilaCMS)
 
-The ***Open Source***, ***100% JavaScript*** and ***"all in one"*** ecommerce solution.
+The ***Open Source***, ***100%-JavaScript*** and ***"all in one"*** ecommerce solution.
 
 [![AquilaCMS](https://www.aquila-cms.com/images/medias/1024x200-90/5eb883a6e88bcc4391038570/AquilaCMS.png)](https://www.aquila-cms.com)
 
